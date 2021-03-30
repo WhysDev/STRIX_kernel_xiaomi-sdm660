@@ -33,7 +33,7 @@ export ARCH=arm
 export SUBARCH=arm
 export KBUILD_BUILD_USER="Whys"
 export KBUILD_BUILD_HOST="TomServer"
-export CROSS_COMPILE="/home/kunalkene1797/arm-eabi-6.0/bin/arm-eabi-"
+export CROSS_COMPILE="/home/whystomcats/arm-eabi-7.0"
 
 # Compilation Scripts Are Below
 compile_kernel ()
